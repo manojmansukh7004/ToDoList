@@ -134,15 +134,15 @@ const styles = StyleSheet.create({
     checkButton: {
         position: 'absolute',
         justifyContent: 'flex-end',
-        bottom: 80,
-        right: 35,
+        bottom: 90,
+        right: 30,
         width: '100%',
     },
     plusIcon:{
         alignSelf: 'flex-end', 
         backgroundColor: 'white',
-         height: 60, 
-         width: 60, 
+         height: 50, 
+         width: 50, 
          tintColor: colors.COLOR_LIGHT_NAVY_BLUE 
     }
 })
