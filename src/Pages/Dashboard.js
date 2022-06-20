@@ -7,7 +7,6 @@ import BottomBar from '../Component/BottomBar';
 import * as colors from '../Constant/colors'
 import firebase from 'react-native-firebase'
 import { saveTasks, getTasks } from '../Service/AxiosDb'
-
 const Dashboard = (props) => {
 
     const [task, setTask] = useState('')
